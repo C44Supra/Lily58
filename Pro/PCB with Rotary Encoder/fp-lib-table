@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name Lily58_Pro-footprint)(type KiCad)(uri "${DROPBOX}/KiCad/PCBs/Lily58/Pro/PCB with Rotary Encoder/Lily58_Pro-footprint.pretty")(options "")(descr ""))
+)
